@@ -1,3 +1,10 @@
+# Building on OpenBSD
+Copy ROM to the cloned directory, then run the following:
+```
+gmake
+```
+Original README is preserved below.
+
 # sm
 
 Our discord server is: https://discord.gg/AJJbJAzNNJ
